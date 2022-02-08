@@ -1,0 +1,296 @@
+CRITICAL - 2022-02-07 17:15:49 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-07 17:15:58 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-07 17:18:37 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-07 17:19:25 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-07 17:19:55 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-07 17:20:12 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-07 17:20:21 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-07 17:20:25 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-07 17:20:28 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-07 17:20:29 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-07 17:20:43 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-07 17:25:33 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-07 17:30:50 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-07 17:31:22 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-07 17:31:23 --> There is no data to insert.
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(704): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 D:\xampp\htdocs\RanjenAPI\system\Model.php(625): CodeIgniter\BaseModel->insert(NULL, true)
+#3 D:\xampp\htdocs\RanjenAPI\app\Controllers\Products.php(40): CodeIgniter\Model->insert(NULL)
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Products->create()
+#5 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#6 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+ERROR - 2022-02-07 17:42:32 --> Table 'restful_db.kartus' doesn't exist
+CRITICAL - 2022-02-07 17:42:32 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\RanjenAPI\app\Controllers\Ranjen.php(14): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Ranjen->index()
+#3 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ranjen))
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-02-07 17:42:37 --> Table 'restful_db.kartus' doesn't exist
+CRITICAL - 2022-02-07 17:42:37 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\RanjenAPI\app\Controllers\Ranjen.php(14): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Ranjen->index()
+#3 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ranjen))
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-02-07 17:42:55 --> Table 'restful_db.kartus' doesn't exist
+CRITICAL - 2022-02-07 17:42:55 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\RanjenAPI\app\Controllers\Ranjen.php(14): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Ranjen->index()
+#3 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ranjen))
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-02-07 17:43:04 --> Table 'restful_db.kartus' doesn't exist
+CRITICAL - 2022-02-07 17:43:04 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\RanjenAPI\app\Controllers\Ranjen.php(14): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Ranjen->index()
+#3 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ranjen))
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-02-07 17:43:05 --> Table 'restful_db.kartus' doesn't exist
+CRITICAL - 2022-02-07 17:43:05 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\RanjenAPI\app\Controllers\Ranjen.php(14): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Ranjen->index()
+#3 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ranjen))
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-02-07 17:43:05 --> Table 'restful_db.kartus' doesn't exist
+CRITICAL - 2022-02-07 17:43:05 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\RanjenAPI\app\Controllers\Ranjen.php(14): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Ranjen->index()
+#3 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ranjen))
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-02-07 17:43:05 --> Table 'restful_db.kartus' doesn't exist
+CRITICAL - 2022-02-07 17:43:05 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\RanjenAPI\app\Controllers\Ranjen.php(14): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Ranjen->index()
+#3 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ranjen))
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-02-07 17:43:05 --> Table 'restful_db.kartus' doesn't exist
+CRITICAL - 2022-02-07 17:43:05 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\RanjenAPI\app\Controllers\Ranjen.php(14): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Ranjen->index()
+#3 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ranjen))
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-02-07 17:43:06 --> Table 'restful_db.kartus' doesn't exist
+CRITICAL - 2022-02-07 17:43:06 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\RanjenAPI\app\Controllers\Ranjen.php(14): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Ranjen->index()
+#3 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ranjen))
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-02-07 17:43:06 --> Table 'restful_db.kartus' doesn't exist
+CRITICAL - 2022-02-07 17:43:06 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\RanjenAPI\app\Controllers\Ranjen.php(14): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Ranjen->index()
+#3 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ranjen))
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-02-07 17:43:06 --> Table 'restful_db.kartus' doesn't exist
+CRITICAL - 2022-02-07 17:43:06 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\RanjenAPI\app\Controllers\Ranjen.php(14): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Ranjen->index()
+#3 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ranjen))
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-02-07 17:43:08 --> Table 'restful_db.kartus' doesn't exist
+CRITICAL - 2022-02-07 17:43:08 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\RanjenAPI\app\Controllers\Ranjen.php(14): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Ranjen->index()
+#3 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ranjen))
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-02-07 17:43:11 --> Table 'restful_db.kartus' doesn't exist
+CRITICAL - 2022-02-07 17:43:11 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\RanjenAPI\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\RanjenAPI\app\Controllers\Ranjen.php(14): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(825): App\Controllers\Ranjen->index()
+#3 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ranjen))
+#4 D:\xampp\htdocs\RanjenAPI\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\RanjenAPI\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xampp\htdocs\RanjenAPI\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-02-07 17:51:57 --> Column 'kartu_ranjen_is' cannot be null
